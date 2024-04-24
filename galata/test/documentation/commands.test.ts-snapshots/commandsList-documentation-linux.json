@@ -121,7 +121,7 @@
   },
   {
     "id": "apputils:activate-command-palette",
-    "label": "Activate Command Palette ---",
+    "label": "Activate Command Palette",
     "caption": "",
     "shortcuts": [
       "Ctrl Shift C"

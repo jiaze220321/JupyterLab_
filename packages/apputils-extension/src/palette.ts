@@ -156,7 +156,7 @@ export namespace Palette {
           shell.activateById(palette.id);
         }
       },
-      label: trans.__('Activate Command Palette')
+      label: trans.__('Activate Command Palette ~~~')
     });
 
     palette.inputNode.placeholder = trans.__('SEARCH');

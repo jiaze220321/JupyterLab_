@@ -598,7 +598,7 @@ export const notificationPlugin: JupyterFrontEndPlugin<void> = {
     };
 
     app.commands.addCommand(CommandIDs.display, {
-      label: trans.__('Show Notifications'),
+      label: trans.__('Show Notifications --'),
       execute: displayNotifications
     });
 
